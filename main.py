@@ -28,3 +28,4 @@ def predict(crime_text,top_k):
             "score": float(similar[idx])
         })
     return results
+
