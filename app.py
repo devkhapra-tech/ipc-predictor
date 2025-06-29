@@ -1,6 +1,6 @@
 import streamlit as st
 from main import predict
-st.title('IPC PREDICTION SYSTEM')
+st.title('VERDICTO- IPC PREDICTION SYSTEM')
 
 
 user_input = st.text_area("Describe the crime", placeholder="e.g., Theft in a house using a knife in Delhi")
